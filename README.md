@@ -1,9 +1,9 @@
 
-  # ecommerce-backend
+  # Budget PWA
   ![license badge](https://img.shields.io/badge/license-MIT-blue)
   ## Description
 
-  This app runs a nosql server handling a social media database. The data is altered through api calls.
+  This app runs a nosql server handling a budet tracker. It uses service workers and indexdb for offline use.
 
   ## Table of Contents
 
@@ -18,16 +18,13 @@
 
   ## Usage
 
-  Run npm install. Start mongodb and run npm start. Use a program like insomnia to make api calls for CRUD. The details on the calls are in the video walkthrough.
+  Run npm install. Start mongodb and run npm start. Go to http://localhost:3001/. Add or subtract money as you see fit.
   
+  Alternatively ou can go to https://dry-thicket-82181.herokuapp.com/
 
 
+![localhost_3001_](https://user-images.githubusercontent.com/88948869/152719754-d6da000a-208f-403c-b5d3-149915ee3100.png)
 
-
-https://user-images.githubusercontent.com/88948869/152397514-207bfbc2-7b1c-4c6a-8cc6-4e2e05c50fd5.mp4
-
-
-  
   
   
   
