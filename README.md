@@ -20,7 +20,7 @@
 
   Run npm install. Start mongodb and run npm start. Go to http://localhost:3001/. Add or subtract money as you see fit.
   
-  Alternatively ou can go to https://dry-thicket-82181.herokuapp.com/
+  Alternatively you can go to https://dry-thicket-82181.herokuapp.com/
 
 
 ![localhost_3001_](https://user-images.githubusercontent.com/88948869/152719754-d6da000a-208f-403c-b5d3-149915ee3100.png)
